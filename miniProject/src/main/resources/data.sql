@@ -1,0 +1,4 @@
+INSERT INTO USER_INFO (name,salary) VALUES ('me',1000.0);
+INSERT INTO USER_INFO (name,salary) VALUES ('me3',1500.0);
+INSERT INTO USER_INFO (name,salary) VALUES ('me2',1500.0);
+INSERT INTO USER_INFO (name,salary) VALUES ('me4',20500.0);
